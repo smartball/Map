@@ -1,0 +1,10 @@
+/Users/superball/Projects/Map_vTest/iOS/bin/iPhoneSimulator/Debug/Map_vTest.iOS.exe
+/Users/superball/Projects/Map_vTest/iOS/bin/iPhoneSimulator/Debug/Map_vTest.iOS.pdb
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/Map_vTest.iOS.csprojResolveAssemblyReference.cache
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/Map_vTest.iOS.csproj.CoreCompileInputs.cache
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/Map_vTest.iOS.exe
+/Users/superball/Projects/Map_vTest/iOS/obj/iPhoneSimulator/Debug/Map_vTest.iOS.pdb

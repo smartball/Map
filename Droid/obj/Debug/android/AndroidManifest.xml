@@ -15,7 +15,7 @@
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <meta-data android:name="com.google.android.maps.2.API_KEY" android:value="@string/google_maps_key" />
     <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyA9oWPWFd3UIQFBbl39_rwBJ8LGvxL23zU" />
-    <activity android:icon="@mipmap/icon" android:label="Map_vTest" android:name="md5b1ab7eae3f1a9fc3be67ab020735c751.MainActivity">
+    <activity android:icon="@mipmap/icon" android:label="Map_vTest" android:theme="@style/AppTheme" android:name="md5b1ab7eae3f1a9fc3be67ab020735c751.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
@@ -29,6 +29,8 @@
         <category android:name="mono.android.intent.category.SEPPUKU.com.beyond.Map_vTest" />
       </intent-filter>
     </receiver>
+    <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT" />
+    <meta-data android:name="android.support.VERSION" android:value="26.1.0" />
     <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
   </application>
 </manifest>
